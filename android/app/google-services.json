@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "39714891069",
+    "project_id": "needle-network",
+    "storage_bucket": "needle-network.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39714891069:android:2880d4c3d6081a47091154",
+        "android_client_info": {
+          "package_name": "com.business.needle_network"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39714891069-5v157tr1v9mb0sbtlvum0jfdohuo4mf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.business.needle_network",
+            "certificate_hash": "1f7e8c68be5fd749dabd90a92546718098577fb4"
+          }
+        },
+        {
+          "client_id": "39714891069-j6fb73fjv0vlfjobldngh6norminvr8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1hta8VN8t_jTfIcqTvk-xLkXGaJtkGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39714891069-i20ln04od6m83f2ufs4v921olop78e8b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39714891069-t2mcl016f8c75sji92u6r4k0teutmnp9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.needleNetwork"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39714891069:android:ddb829e22d746bf2091154",
+        "android_client_info": {
+          "package_name": "com.example.needle_network_main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39714891069-j6fb73fjv0vlfjobldngh6norminvr8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB1hta8VN8t_jTfIcqTvk-xLkXGaJtkGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39714891069-i20ln04od6m83f2ufs4v921olop78e8b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39714891069-t2mcl016f8c75sji92u6r4k0teutmnp9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.needleNetwork"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
