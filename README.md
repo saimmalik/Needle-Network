@@ -1,16 +1,7 @@
 # needle_network_main
 
-A new Flutter project.
+An app for tailors 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app is made for tailors in your area is shows the nearest tailors in 10km radius and you can. also see them by opening map because I've used the Google map API in it. user can also chat with the tailors and vise versa. I've also made a sperate app for the tailors so if user has to buy clothes they can buy from this app and tailors will get the orders in the other aap.
